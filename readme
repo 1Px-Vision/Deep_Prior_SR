@@ -1,5 +1,5 @@
 
-DIP SR
+# Deep Prior SR
 
 Single-pixel imaging (SPI) has become an innovative approach for computational imaging, particularly beneficial in environments where traditional imaging systems fall short. SPI shines in low light conditions and 
 without high-quality cameras for specific spectral ranges. It uses structured light to convert one-dimensional signals into detailed two- and three-dimensional images. The fidelity of SPI-generated images 
