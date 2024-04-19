@@ -5,3 +5,8 @@ without high-quality cameras for specific spectral ranges. It uses structured li
 largely depends on the amount of temporal measurements taken. Deep learning enhances the reconstruction of SPI images but needs more training data, especially for specific spectral bands. In our study, we introduce a novel  method that integrates the Deep Image Prior technique with Generative Adversarial Networks (GANs) to improve SPI image quality in the near-infrared (NIR)
 spectrum  (850 to 1550 nm). This approach bypasses the need for extensive SPI image datasets by adopting an unsupervised method for image super-resolution rooted in Deep Image Prior.  We assess different neural 
 network models, including UNet and GAN frameworks, to gauge their performance in enhancing SPI-based computational vision systems.
+
+
+# A first-level heading
+## A second-level heading
+### A third-level heading
