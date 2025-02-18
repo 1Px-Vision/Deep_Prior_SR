@@ -10,6 +10,7 @@ largely depends on the amount of temporal measurements taken. Deep learning enha
 
 SPI reconstructs images from a series of intensity measurements using a single photodetector. While this method offers advantages in low-light and specialized spectral ranges, it suffers from resolution limitations due to the inherent under-sampling of spatial information. Traditional deep learning-based super-resolution techniques require extensive labeled datasets, which are difficult to acquire for SPI in NIR bands. Our proposed approach mitigates this limitation by utilizing an unsupervised learning framework.
 
+![DIP_result](https://github.com/1Px-Vision/Deep_Prior_SR/blob/main/Result_DIP.jpg)
 ## Hybrid Approach: DIP Meets GAN
 
 Deep Image Prior (DIP) is a compelling technique that reconstructs high-quality images without requiring a large training dataset. By coupling DIP with a Generative Adversarial Network (GAN), we improve SPI resolution through an unsupervised learning paradigm. This approach offers several advantages:
