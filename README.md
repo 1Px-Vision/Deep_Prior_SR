@@ -19,3 +19,11 @@ Deep Image Prior (DIP) is a compelling technique that reconstructs high-quality 
 * **Enhanced Super-Resolution:** The GAN component learns to refine the image quality, making it more detailed and perceptually accurate.
 
 * **Optimized Neural Architectures:** We enhance the performance by leveraging variations of UNet and GAN architectures across four different neural network configurations.
+
+## Future Perspectives
+
+Our results demonstrate that combining DIP with GANs is a promising direction for SPI super-resolution, particularly for niche applications in biomedical imaging, remote sensing, and defense technology. Future research could explore:
+
+* Real-time implementations for SPI-based imaging systems.
+* Adaptations to other spectral bands beyond NIR.
+* Hybrid models incorporating physics-informed neural networks (PINNs) for further refinement.
